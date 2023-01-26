@@ -121,8 +121,6 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-Lovelak-Pro-green?style=for-the-badge&logo=github)](https://github.com/lovelak-pro)
-
 - [![Gmail](https://img.shields.io/badge/Gmail-Lovelak-green?style=for-the-badge&logo=gmail)](mailto:lovelak500@gmail.com)
 
 - [![Facebook](https://img.shields.io/badge/Facebook-Meet_Lovelak-green?style=for-the-badge&logo=facebook)](https://facebook.com/xlovelak)
